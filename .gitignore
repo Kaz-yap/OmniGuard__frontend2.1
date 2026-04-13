@@ -7,7 +7,7 @@ dist/
 dist-ssr/
 build/
 
-# Environment Variables (CRITICAL: Keeps your Gemini/Firebase keys off GitHub)
+# Environment Variables 
 .env
 .env.local
 .env.development.local
